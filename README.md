@@ -6,7 +6,7 @@ Josiah Rambally - 816032691
 Namrata Jaganath - 816030364
 Zane Espinoza - 816032716
 
-Competition Submission: (to be announced)
+Competition Submission: #925
 
 Note: 
 - train.csv needs to be unzipped 
